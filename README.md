@@ -9,7 +9,7 @@
 | LP2 | Classsification Project |  [Read the Article](link to article)  |
 
 ## Project Description
-
+This project is about one of the problems in the telecom industry
 
 
 ## Setup
